@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjwnu&layout=compact&theme=merko)
 
 
-https://www.notion.so/nuniblog/
+[https://www.notion.so/nuniblog/](https://nuniblog.notion.site/829bad7a690d44b783aa4f3a8f0c6641?v=1d3df0056855421384f79417a2ac164f&pvs=4)https://nuniblog.notion.site/829bad7a690d44b783aa4f3a8f0c6641?v=1d3df0056855421384f79417a2ac164f&pvs=4
