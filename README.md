@@ -19,6 +19,7 @@
 <div align="center">
  🕌 SNS 🕌<BR><br>
 <a href="https://nutech.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white" /><br>
-<a href="https://www.notion.so/1algostudy"><img src="https://img.shields.io/badge/Notion`Algorithm-000000?style=flat&logo=notion&logoColor=white" /><a href="https://www.notion.so/nuniblog"><a href="https://www.notion.so/1algostudy"><img src="https://img.shields.io/badge/Notion`Personal-afafaf?style=flat&logo=notion&logoColor=white" /><br>
+<a href="https://1algostudy.notion.site/b038c86024904c508524bfa214c01ba0?pvs=4"><img src="https://img.shields.io/badge/Notion`Algorithm-000000?style=flat&logo=notion&logoColor=white" />
+<a href="https://nuniblog.notion.site/nuniblog/cedb0946984a4fe98849d823cce4f389?v=f014b8805c8b47768b8f05dbbb80c21b"><img src="https://img.shields.io/badge/Notion`Personal-afafaf?style=flat&logo=notion&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/tlstjr01@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" />
 </div>
