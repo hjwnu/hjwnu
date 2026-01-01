@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjwnu&layout=compact&theme=chartreuse-dark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rumaroo&)](https://solved.ac/rumaroo)
 
 <div align="center">
